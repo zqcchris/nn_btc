@@ -19,4 +19,4 @@
 
 
 ## 使用方法
-nohup python3 example/transformer/models/Transformer.py > okex_future.log 2>&1 &
+nohup python3 example/transformer/models/Transformer.py > nn_btc.log 2>&1 &
